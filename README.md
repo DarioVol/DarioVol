@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @DarioVol
-- 👀 I’m interested in Technology, Environment, Trips, Gardening and sports.
-- 🌱 I’m currently learning how to improve my coding, AI and GIT.
-- 💞️ I’m looking to collaborate on some project
+- Hi, I’m @DarioVol
+- I’m interested in Technology, Environment, Trips, Gardening and sports.
+- I’m currently learning how to improve my coding, AI and GIT.
 
 <!---
 DarioVol/DarioVol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
